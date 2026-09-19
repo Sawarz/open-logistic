@@ -1,3 +1,19 @@
+# Open Logistic
+
+Hackathon logistics application built on [Open Mercato](https://github.com/open-mercato/open-mercato).
+
+This project's repository is [waclawek/open-logistic](https://github.com/waclawek/open-logistic). Contributions and implementation work belong here.
+
+The initial implementation provides seven protected logistics pages, a dispatcher dashboard, role-based access and translations in five languages. Transport operations are explicitly marked as planned.
+
+- [Logistics specification](.ai/specs/2026-09-19-app-spec-logistics-dashboard.md)
+- [Module setup and verification](apps/mercato/src/modules/logistics/README.md)
+- [Implementation status](.ai/runs/2026-09-19-logistics-dashboard.md)
+
+Open Mercato's history, license and framework documentation are preserved below.
+
+---
+
 <p align="center">
   <img src="./apps/mercato/public/open-mercato.svg" alt="Open Mercato logo" width="120" />
 </p>

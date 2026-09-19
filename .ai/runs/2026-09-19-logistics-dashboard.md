@@ -34,6 +34,10 @@ GitHub preflight: gh auth status reports invalid keyring, but direct current-use
 
 ## Progress
 
+Delivery correction (2026-09-19): the owner requested the independent private repository https://github.com/waclawek/open-logistic. Upstream PR #6242 was closed without merging. The current implementation and source specification are being imported into this repository; subsequent work belongs here. The historical PR references below describe the superseded destination.
+
+Independent follow-up: template parity passes at c6421b465. The review's missing template and integration-source findings were fixed. Live integrations and screenshots remain pending after the first managed app startup failed; a verbose retry is running. Full test execution also exposed existing Windows-specific create-app harness failures. These results are not a complete validation pass.
+
 PR: #6242
 
 > Convention: `- [ ]` pending, `- [x]` done. Append ` — <commit sha>` when a step lands. Do not rename step titles.
