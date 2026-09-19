@@ -9,6 +9,7 @@ The initial implementation provides seven protected logistics pages, a dispatche
 - [Logistics specification](.ai/specs/2026-09-19-app-spec-logistics-dashboard.md)
 - [Module setup and verification](apps/mercato/src/modules/logistics/README.md)
 - [Implementation status](.ai/runs/2026-09-19-logistics-dashboard.md)
+- [Verification results and screenshots](docs/logistics/verification.md)
 
 Open Mercato's history, license and framework documentation are preserved below.
 
