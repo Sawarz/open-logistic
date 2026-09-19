@@ -1,8 +1,8 @@
 ---
-title: Confirm the delivery repository after an owner correction
-modules: [platform]
-areas: [spec-pr, ai-workflow]
-topics: [repository-target, pull-requests]
+title: "Confirm the delivery repository after an owner correction"
+modules: ["platform"]
+areas: ["spec-pr","ai-workflow"]
+topics: ["repository-target","pull-requests"]
 ---
 
 # Confirm the delivery repository after an owner correction
