@@ -15,7 +15,7 @@ Leverage the module system and follow strict naming and coding conventions to ke
 - Enter plan mode for non-trivial tasks with 3+ steps or architectural decisions.
 - Identify the reference module (`customers`) when building CRUD features.
 - Preserve behavior unless the user or a spec explicitly asks for a behavior change.
-- Keep changes minimal and integrated at real call sites. Deliver to `waclawek/open-logistic`; upstream only on request.
+- Keep changes minimal; use real call sites. Target `waclawek/open-logistic`; upstream on request.
 - Use the closest package/module `AGENTS.md` for local architecture, imports, and validation commands.
 - Follow `BACKWARD_COMPATIBILITY.md` before touching any contract surface.
 - Run `yarn generate` after adding or modifying module files that rely on auto-discovery.
